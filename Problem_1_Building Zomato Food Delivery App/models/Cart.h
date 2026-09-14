@@ -49,7 +49,7 @@ class Cart{
         restaurant = r;
     }
 
-    Restaurant* getRestaurnat() const{
+    Restaurant* getRestaurant() const{
         return restaurant;
     }
 
